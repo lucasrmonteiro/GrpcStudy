@@ -1,2 +1,2 @@
-# GRPC - .NET
+# GRPC
 GRPC API .NET CORE 3
