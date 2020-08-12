@@ -1,1 +1,2 @@
-# GrpcStudy
+# GRPC - .NET
+GRPC API .NET CORE 3
